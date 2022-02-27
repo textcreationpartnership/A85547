@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A right use made by a stander by at the two disputations at Great All-hollowes; between Mr. Goodwin and Mr. Symson, the 14. of January and 11. of February 1649. Concerning the poynts of generall redemption, and inevitable damnation immediately from God alone.</title>
+            <author>Graunt, John, of Bucklersbury.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85547</idno>
+            <idno type="STC">Wing G1593B</idno>
+            <idno type="STC">Thomason E594_2</idno>
+            <idno type="STC">ESTC R202254</idno>
+            <idno type="EEBO-CITATION">99862608</idno>
+            <idno type="PROQUEST">99862608</idno>
+            <idno type="VID">114772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114772)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E594[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A right use made by a stander by at the two disputations at Great All-hollowes; between Mr. Goodwin and Mr. Symson, the 14. of January and 11. of February 1649. Concerning the poynts of generall redemption, and inevitable damnation immediately from God alone.</title>
+                  <author>Graunt, John, of Bucklersbury.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons for John Hancock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Graunt.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "Feb 22 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, John, 1594?-1665.</term>
+               <term>Simpson, John, 17th cent.</term>
+               <term>Election (Theology) --  Early works to 1800.</term>
+               <term>Reprobation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:114772:1" rendition="simple:additions"/>
+            <head>A right Uſe made by a Stander by at the two DISPUTATIONS at Great <hi>All<g ref="char:EOLhyphen"/>hollowes;</hi> between M<hi rend="sup">r.</hi> 
+               <hi>Goodwin</hi> and M<hi rend="sup">r.</hi> 
+               <hi>Symſon,</hi> the 14. of <hi>January</hi> and 11. of <hi>February</hi> 1649. Concerning the poynts of Generall Redemption, and inevitable damnation immediate<g ref="char:EOLhyphen"/>ly from God alone.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or any man to affirme, as then and there with great boldneſſe it was avowed, that God from all Eternity hath damn'd Men perſonally, without having any eye to their own wicked and ungodly reſiſtance and oppoſition of his grace, mercy, and goodneſſe, preached unto them as the means of their ſalvation. I ſay, whoſoever it is that doth thus aſſert and maintaine, doth herein blaſpheme God, and make him the Author of ſinne, which is impudent impiety; for if God originally primarily, and meerly of himſelfe doth deſtinate a man to damnation, then he doth deſtinate that man to the cauſe as well as to the effect, which is to deſtinate a man to ſinne, the wages or reward of which is damnation, the effect which that cauſe produceth, the means that brings about that end. And this groſſe error was afterwards againe in the ſame place preached with no leſſe confidence then be<g ref="char:EOLhyphen"/>fore, and undertaken to be proved by <hi>Pro.</hi> 16. 4. and <hi>Jude</hi> ver. 4. Which Scriptures rightly underſtood, diſprove what he affirmed; for God made man perfect, but man hath made himſelfe wicked. And notwithſtanding the means and re<g ref="char:EOLhyphen"/>medy provided and preached to him on Gods part, yet this wicked and ungodly man turnes this remedy, this grace and mercy of God into laſciviouſneſſe, oppoſing the light and
+<pb n="2" facs="tcp:114772:2"/>
+life offered to him in Gods great pitty &amp; compaſſion; whic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contempt and refuſall of it proves his condemnation; An<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this is the condemnation to all that periſh, <hi>Joh.</hi> 3. 19.</p>
+            <p>Now the Lord to whom all things are preſent in regard he is omniſcient &amp; omnipreſent, and infinite in theſe, as alſo in all other his attributes, ſo that with him one thing is not ſo before, nor after one another as it is with us: So, I ſay, God of old, or before he made man, ſaw that although he made him good, as there is nothing but good that he makes, yet not<g ref="char:EOLhyphen"/>withſtanding God ſaw he would corrupt himſelfe<g ref="char:punc">▪</g> although by his Creation the moſt excellenteſt of all other creatures, which God pittying in his miſery above all the reſt of his creatures, provides a remedy for the cure of his maladie, which means of recovery, ſhould not onely enlighten <hi>Adam,</hi> but all others that ſhould come of him, which were then in his loynes when the promiſe was made. And as the recei<g ref="char:EOLhyphen"/>ving thereof ſhould be ſalvation, ſo the refuſing, deniall, and contempt ſhould be damnation to each one reſpectively. And Gods foreſight of mans wicked oppoſition &amp; reſiſtance of the means of his recovery preached unto him, being ſo dearely purchaſed and marvellouſly brought about by the death of his Sonne. Mans contempt thereof, I ſay, moves and conſtraines God in his juſtice to ordaine or appoint him to deſtruction, as a due reward of his owne deſerving: As it is written; <hi>Thy deſtruction is of thy ſelfe,</hi> Hoſ. 13. 9.</p>
+            <p>Now this being the eſtate and condition of all mankinde one or other, and God foreſeeing the ſpoyle of his holy crea<g ref="char:EOLhyphen"/>tion of mankinde, and the generall oppoſition of the reme<g ref="char:EOLhyphen"/>dy provided, even his grace, light, life, and ſalvation; doth alſo of old of his owne good will and pleaſure, ordaine, elect, and chooſe a cert<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in number from amongſt the reſt of man<g ref="char:EOLhyphen"/>kinde, who in their ſeverall life-times he doth call effectual<g ref="char:EOLhyphen"/>ly to repentance and remiſſion of ſinnes, that they may be juſtified and made his children, the heires of glory and ſal<g ref="char:EOLhyphen"/>vation, according to the Scriptures. And ſo in his Elect pre<g ref="char:EOLhyphen"/>vents by his abundant goodneſſe that oppoſition and reſi<g ref="char:EOLhyphen"/>ſtance
+<pb n="3" facs="tcp:114772:2"/>
+of his illuminating grace, which as before is ſaid, to be the condemnation of all that periſh. Now as there was much ignorance manifeſted both in the election and reprobation of God in his decrees and purpoſes touching all mankinde; ſo there was alſo declared exceeding great weakneſs and ig<g ref="char:EOLhyphen"/>norance of the way and manner how almighty God preach<g ref="char:EOLhyphen"/>eth, communicateth, and conveyeth this means of mercy and recovery to all mankinde; which rightly diſcovered might have cleered God, both in his juſtice and mercy, both which then and there was exceedingly obſcured, which thankes be to God, the Scriptures have manifeſtly publiſhed; where<g ref="char:EOLhyphen"/>fore be it knowne to the Diſputants, and to all the world, that the Lord hath ordained three books or wayes of diſco<g ref="char:EOLhyphen"/>very of the means of Mans ſalvation: The firſt and principall is the Word of God, through the Miniſtry of Gods faithfull ſervants and Meſſengers: and this way and means of diſco<g ref="char:EOLhyphen"/>very is beyond all queſtion or objection: the ſecond booke or means is by the preaching of the creatures; of which ma<g ref="char:EOLhyphen"/>ny make queſtion: the third is by ſecret dictate of conſcience, of which ſpeaking or preaching moſt are doubtfull: in all theſe three diſpenſations, obſerve two differing Adminiſtra<g ref="char:EOLhyphen"/>tions; the one ſenſible, naturall, or literall; the other, di<g ref="char:EOLhyphen"/>vine, heavenly, and ſpirituall; hereby extending and reach<g ref="char:EOLhyphen"/>ing to all ſorts and degrees of mankinde whatſoever, that part of mankinde that enjoyeth the incomparable happi<g ref="char:EOLhyphen"/>neſſe of the light of the Scriptures; and that part of man<g ref="char:EOLhyphen"/>kinde that hath not the Scriptures, yet hath the bleſſed and happy ſound, the voyce and the uſe of the creatures; And laſtly, that part of mankinde that are neither capable to be taught by the Scriptures, nor by the creatures, they wanting the principles of reaſon and underſtanding; and yet in ſome degree have ſenſe, which are all ſorts of Infants.</p>
+            <p>And firſt I will prove by the Scriptures, that all mankinde in generall are taught and inſtructed in the means of ſalvati<g ref="char:EOLhyphen"/>on: And ſecondly, I will ſhew the various manner of the preaching thereof. Firſt, <hi>John</hi> the Apoſtle is cleare in his
+<pb n="4" facs="tcp:114772:3"/>
+witneſſe, <hi>Joh.</hi> 1. 9. declaring that Chriſt is the true light that <hi>inlightens every man that comes into the world,</hi> if every one, then all that have the booke of the Scriptures, and all other that have but the booke of the Creatures; and the Children or infants of both theſe parts of the world or mankinde, becauſe it is ſaid, <hi>All that cometh, &amp;c.</hi> That is, every one whether by creation or birth, that cometh into the world. Alſo obſerve the terme given to this grace &amp; truth that cometh by Jeſus Chriſt, it is called <hi>light,</hi> and expounded in the fourth verſe, <hi>to be the life and light of men.</hi> it is alſo in other Scriptures cal<g ref="char:EOLhyphen"/>led <hi>the promiſe; the new Covenant; the glad tidings of ſalvation; the Goſpel;</hi> St. <hi>Peter</hi> cals it <hi>the Word ſpeaking peace by Jeſus Chriſt, Act.</hi> 10. and St. <hi>Paul; The word of faith,</hi> Rom. 10. Which is ſo home-taught to all and every one. And it is ſo nigh to each man without exception, that it is ſaid <hi>to be even in the mouth, and in the heart of all;</hi> for there is no difference between the <hi>Jew</hi> and the <hi>Greeke;</hi> that is, in this reſpect of ſhewing mercy or providing a way of recovery for all mankind, <hi>for the ſame Lord over all, is rich unto all.</hi> And although the Apoſtle in the 16. verſe, doth affirme, <hi>that all have not obeyed the Goſpel,</hi> yet in the 18. verſe he demands in the Negative and affirmes in the Affirmative, <hi>that they have all heard, even that word of grace,</hi> ver. 17. By which, ſpirituall hearing and receiving to life is attained to, through which our faith or aſſurance of juſtifi<g ref="char:EOLhyphen"/>cation is wrought. And in thoſe words of his, <hi>But I ſay, have they not heard?</hi> His meaning is by the word <hi>they,</hi> all the whole world of diſobeyers &amp; oppoſers, as well as the receivers and effectuall believers; as appeares by his own anſwer with the teſtimony of <hi>Moſes</hi> and <hi>Iſaiah.</hi> Firſt proving that all that had not the Scriptures, that they have heard. And then all thoſe that have had the Scriptures, that they have heard alſo. And firſt with his own teſtimony he joynes the Prophet <hi>Davids</hi> affirmatively; <hi>Yes verily their ſound went into all the earth, and their words unto the ends of the world.</hi> And then with <hi>Moſes</hi> he ſheweth that the effect of the word of grace was as truely wrought in ſome of them that had not the Scriptures, which
+<pb n="5" facs="tcp:114772:3"/>
+in compariſon of the <hi>Jews</hi> were a fooliſh Nation, and not a people; As in ſome of his people that injoyed his Word and O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinances. And wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <hi>I<g ref="char:EOLhyphen"/>ſaiah</hi> he ſaith<g ref="char:punc">▪</g> 
+               <hi>Thoſe that ſought him not<g ref="char:punc">▪</g> and ſuch people as were not <gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>d by his Name they found him.</hi> And ſo <hi>Luke</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtifies<g ref="char:punc">▪</g> 
+               <hi>Act.</hi> 17. 28. E<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad ſo darke a light that the way is rather f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lt out by the hand <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſeene with the eye, they, even ſuch found the Lord to be their God; wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> many of the <hi>Jewes</hi> that had the Sun ſhine of his Word and Ordinances found him, no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe they blinded their eyes, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dened their hear<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> as the Apoſtle affi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Prophets teſtimony againſt them, <hi>v<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 21. But to <hi>Iſrael</hi> he ſaith, mark, he ſpake before of the Gentiles ſuch as had not the Scriptures and Miniſtry of men, but now to thoſe to whom he ſent his Prophets, and yet one and all of them complaine; <hi>All the day long have we<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtretched forth o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r hands to a diſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bedient and gaine ſaying people.</hi> And here ſee plainly the Apoſtles and Prophets cleere evidence, that God hath not left himſelfe without witneſſe of his grace vouchſafed to all mankind<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſo that all are inlightened, taught, and have heard the ligh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the way<g ref="char:punc">▪</g> and means of ſalvation the Goſpel the word of faith. And as i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is cleerly pro<g ref="char:EOLhyphen"/>ved to be preached to all, that i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to every one, and all mankinde in parti<g ref="char:EOLhyphen"/>cular: ſo alſo the dive<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> manners and wayes how it is preached in both adminiſtrations, ſhall be as cleerly ſhewed likewiſe. And fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt that God<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> word is a way and means for the preaching, conveying, and manifeſting the grace of God for mans recovery and ſalvation, is without queſtion. <hi>Search the Scriptures,</hi> ſaith our Lord himſelfe, <hi>for they are they th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> teſtifie of mee;</hi> that i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, beare witneſſe of him. And that this diſpenſation by God<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> word works a differing adminiſtration, one t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt will p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> plainly, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Cor. 2. 15, 16. For <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee,</hi> ſaith the Apoſtle, that is the fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thfull diſpencer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Word, <hi>are a ſweet ſavour of life to them that a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved, and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem that pariſh, to the one the ſavour of death unto death, and to the other th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avour of life unto life.</hi> And this will be confeſt by all; but how the diſpenſation of the Go<g ref="char:EOLhyphen"/>ſpel by the preaching of the creatures, works the like d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt adminiſtra<g ref="char:EOLhyphen"/>tion, that i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the great queſtion. The truth of this will plainly b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manife<g ref="char:EOLhyphen"/>ſted two waye<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Firſt, by Scripture-evidence; and ſecondly, by Scriptur<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>preſidents: And firſt for the evidence of Scripture, the Apoſtle is cleere for it, <hi>Rom. 2. 14. For when the Gentiles do<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by nature the things contained i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Law, theſe having not the Law,</hi> or Scriptures, <hi>are a Law unto themſelves<g ref="char:punc">▪</g> which ſhew the worke of the Law written in their <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not the <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the Law are juſtified before God but the do<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs:</hi> all h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> all <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taught as be<g ref="char:EOLhyphen"/>fore is proved<g ref="char:punc">▪</g> ye<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely the obeyet<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are juſtified; therefore ſaith the A<g ref="char:EOLhyphen"/>poſtle, <hi>ver. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the uncircumciſion,</hi> that i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th not the book<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Scriptures, nor divine ordinances, <hi>if he keepe the righteouſneſſe of the Law,
+<pb n="6" facs="tcp:114772:4"/>
+ſhall not his uncircumciſion be counted for Circumciſion,</hi> that is, he ſhall be ſo truly, even the regenerate, choſen, and ſanctified childe of God in the eſtate of ſalvation, the childe of the Covenant; <hi>for he is not a Jew,</hi> (that is, a childe of God) <hi>that is one outwardly, neither is that Circumciſion that is outward in the fleſh, but he is a Jew that is one inwardly,</hi> he is the true <hi>Iſrae<g ref="char:EOLhyphen"/>lite; for Circumciſion is that of the heart in the Spirit, and not in the Letter, whoſe praiſe is not of men but of God.</hi>
+            </p>
+            <p>The knowledge of this truth that God works effectually to ſalvation by the preaching of the creatures, makes the Prophet <hi>David</hi> and the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> cry out with one voyce, <hi>Pſal.</hi> 19. and <hi>Rom. 10. Day unto day teach<g ref="char:EOLhyphen"/>eth knowledge, and night unto night uttereth wiſedome; there is no ſpeech nor language where their voyce is not heard:</hi> which voyce they both affirme to preach and declare Gods perfect Law or Covenant, <hi>that converteth ſoules:</hi> Now no Covenant of God converts ſoules, but the Goſpel, the word of promiſe, none but that gives wiſedome, or maketh wiſe; that pure ſtatute onely inlightens the eyes, and turnes the heart from all evill to the feare of the Lord, even the <hi>ingrafted word that endures for ever;</hi> for it is the ſame promiſe, grace, Goſpel, and means of ſalvation preacht by the creatures, as is preacht by the Scriptures; and the ſame Spirit of God that works by the one, works by the other: the Prophets and Apoſtles they call for re<g ref="char:EOLhyphen"/>pentance; and ſo doth Gods works alſo, <hi>Rom.</hi> 2. 4. And this is the firſt part of the Goſpel or promiſe; and the ſame Spirit gives it and works it by the means of both. Againe the Spirit of God by the Miniſtry of his faithfull ſervants, comforts and binds up the broken-hearted; and ſo doth the Spirit of God alſo in the comforting operations of the voyces of his creatures refreſh and conſolate the ſpirituall mourner; the Spirit wit<g ref="char:EOLhyphen"/>neſſeth with our ſpirits that are under Gods ſervants Miniſtry, that we are the children of God; even ſo the ſame Spirit witneſſes to ſuch as are under Gods works, diſpenſation, that the God thereof is become their God; for ſo it is to be a true <hi>Jew</hi> or an <hi>Iſraelite</hi> indeed. But ſome may ſay, the works of God doe not declare Jeſus Chriſt nominally, nor the Miniſtry of his incarnation, death, reſurrection, aſcenſion, nor his Mediatorſhip. I anſwer, the diſtinct and particular knowledge of theſe things is not al<g ref="char:EOLhyphen"/>wayes, and under all diſpenſations of abſolute neceſſitie to ſalvation; for moſt of the Patriarcks and Prophets were ignorant of Chriſt, and theſe particulars in nomination; and yet had their vertue and operation to e<g ref="char:EOLhyphen"/>ternall life. Now as the Spirit of God works effectually in their hearts to receive and obey it by the booke of works and by his booke of words on his Elect to ſalvation; ſo by both books it works an illumination of the grace and means of ſalvation, whereby a remedy and poſſibility of delive<g ref="char:EOLhyphen"/>rance
+<pb n="7" facs="tcp:114772:4"/>
+and ſalvation is preached and preſented to all men through the promiſe, before which there was no way leſt or made of deliverance, but onely the miſerable eſtate of deſtruction, that followed the tranſgreſſion. And therefore thrice bleſſed is that word of God that ſaith, <hi>God ſent not his Son into the world,</hi> that is, unto mankinde to condemne them, <hi>but that they through him might be ſaved,</hi> Joh. 3. 17. Here is the manifeſt poſſibility without all exception; yet notwithſtanding this abundant goodneſſe and pitty of God towards mankind, to give himſelfe to death that they might have life, and to convey the knowledge of this his goodneſſe and grace, to all and every one of them, the wilfull oppoſition that is made againſt it by themſelves, makes that accidentally their condemnation, which in it ſelfe was the means and cauſe of life and ſalvation.</p>
+            <p>And now wee come to ſhew what preſidents there are in the Scriptures of the eff<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctuall operation of grace and ſalvation, by the works of God through his Spirit: now Scripture example muſt be of ſuch men as have lived (when teſtimony is made of them) amongſt ſuch as injoyed the Scrip<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure-diſpenſation, &amp; yet themſelves no Proſelytes. The firſt inſtance ſhall be in that holy Heathen the Roman Centurion, that came to our Lord in the behalfe of his ſervant; the teſtimony our Lord gives of him with admiration is this, <hi>I have not found ſuch faith,</hi> ſaith he, <hi>no not in Iſrael:</hi> as if he ſhould ſay, not amongſt my people that have the booke of my words, as in this man that hath been taught by the booke of my works; <hi>And I ſay unto you,</hi> ſaith he, <hi>Mat. 8. 1. that many ſhall come from the Eaſt, and from the Weſt,</hi> that is, from one end of the earth to the other, from the Sun-riſing to the Sun-ſetting, <hi>And ſhall ſit downe with Abraham, Iſaac and Jacob in the kingdome of heaven, but the children of the kingdome ſhall be caſt out,</hi> that is, ſuch as have the booke of my Scrip<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures and Ordinances ſhall loſe the ſalvation, when ſuch as have onely the booke of my creatures ſhall finde it. And ſuch an one was <hi>Cornelius,</hi> Act. 10. which was alſo a Gentile and Heathen by Nation, and no Proſelyte, for other Nations that were Proſelytes were to have the ſame fellowſhip in the Word and Ordinances with the <hi>Jewes,</hi> but <hi>P<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> denies it him, <hi>ver.</hi> 28. and yet juſtifies him as tou<g ref="char:EOLhyphen"/>ching the grace of the Goſpel, to be a true worſhipper of God, a ſpirituall regenerate man, manifeſted and declared to <hi>Peter</hi> by the words which he ſpake to him, which makes <hi>Peter</hi> to open his mouth, <hi>ver.</hi> 34. and ſay; <hi>I perceive of a truth that God is no reſpecter of perſons, but in every Nation be that feareth God and worketh righteouſneſſe is accepted with him.</hi> Mark, here is the righteouſneſe that is of grace, which makes men acceptable to God vouch<g ref="char:EOLhyphen"/>ſafed to all nations, of which <hi>C<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nlius</hi> is a preſent proofe, thereby being made ſpirituall worſhippers, acceptable through faith in their prayers
+<pb n="8" facs="tcp:114772:5"/>
+and almes, and all other ſpirituall ſacrifices, which is only ſ<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in &amp; through the goodneſſe and grace of God, which is the Goſpel and Covenant of promiſe, for there is not a ſe<g ref="char:EOLhyphen"/>cond or other means of grace beſides this. But if this be ſo, that God by his works and Spirit, teaches the Goſpel and ſalvation to mankinde, as well as by his word and Spi<g ref="char:EOLhyphen"/>rit, then what advantage have Chriſtians by the Scriptures? or what profit is there of other Ordinances? The Apoſtle makes the ſame queſtion, and anſwers it himſelfe, <hi>Rom. 3. 1, 2. Much every way,</hi> ſaith he, as if he had ſaid, This is the chiefe and higheſt diſpenſation; the principall and greateſt means of conveying the grace of the Goſpel to mankinde, is by this moſt excellent way.</p>
+            <p>Now the laſt and moſt conceald booke, by which God reveales the means of ſalvation to mankinde, is that way by which he makes it knowne to Infants, who want the exer<g ref="char:EOLhyphen"/>ciſe of ſenſe, and the uſe of reaſon and underſtanding, which are the ſubject matter of both the two other books preachings; for in them the Spirit of God works only by the dictate of Conſcience, not denying this moſt ſecret helpe of nature to the two former books alſo; but the capacitie of Infants is ſuch that they are capable onely of this way of preaching. And the Spirit of the Lord by this means through ſecret workings in<g ref="char:EOLhyphen"/>clines the hearts of the Elect-Infants to receive the mercy preached effectually to life and ſalvation; As he did the hearts of the Prophets, <hi>Jeremy</hi> and <hi>John Baptiſt</hi> in the wombe, then and there to be called and ſanctified, regenerated and borne againe; for there is no way to life but this, although given and adminiſtred by divers diſpenſations. And take this conſideration for the further diſcovery of this obſcure booke, that if the Goſpel, the word of faith be nigh and in the mouth and heart of all mankinde, then it is alſo in the mouth and in the hearts of Infants: and the refuſing and diſpoſing this light, as it may be ſaid, Infants may ſo doe, is the condemnation by this booke alſo.</p>
+            <p>Theſe truths rightly underſtood, cleere God both in his juſtice and mercy, that as ſalvation is free and onely from himſelfe, ſo the condemnation is onely and alone from wicked men themſelves; and ſo let us acknowledge God to be juſt &amp; truly mercifull, al<g ref="char:EOLhyphen"/>though wee may ſafely ſay, all men are lyers. Thus much I thought to ſignifie by wri<g ref="char:EOLhyphen"/>ting after I was publickly denied for ſpeaking; and to wave their pretended excuſes, I pray them to take notice from the Lord, except they deny themſelves they cannot be taught of God, and ſo never able to teach others truly.</p>
+            <p>And for the other poynt in their Diſputations of generall Redemption, as they call it, there is no ſuch expreſſion in Scripture; for although it be ſaid, <hi>Chriſt gave himſelfe a ranſome for all,</hi> yet it is not ſaid, all are ranſomed, as the terme <hi>Redemption</hi> ſeemes to imply; and although a man have provided a price or value of a Ranſome, yet it cannot be ſaid the Man is ranſomed, or redeemed, except the price or value be received and accepted of; ſo although God would have all men to be ſaved, as touching the ſuffici<g ref="char:EOLhyphen"/>ent means he hath provided, yet the man not receiving that means, thereby occaſions his condemnation, which if received had been his ſalvation. And the rejection is not through the means it ſelfe, nor in God that provided it, but altogether in and from them that make the reſiſtance. As it is written, 2 <hi>Pet. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 9. The Lord is long-ſuffering to us-ward, not willing that any ſhould periſh, but that all ſhould come to repentance.</hi> And this way and means of recovery, which is the Goſpel, he hath made knowne and preached unto all mankinde, as before is ſhewed, yet notwithſtanding this means of gathering and ſa<g ref="char:EOLhyphen"/>ving all, by which God would. Wicked men will not yeeld obedience thereunto, but harden their hearts to reſiſtance, and ſo periſh through their own impenitency.</p>
+            <closer>
+               <signed>By <hi>John Graunt.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>M. Simmons</hi> for <hi>John Hancock</hi> 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
